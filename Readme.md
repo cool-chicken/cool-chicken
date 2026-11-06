@@ -44,6 +44,9 @@ Hi, I'm **Ruihan Wu**, also known as **cool-chicken** 👋
 
 ### 04 / Activity
 
+
+[查看我的 GitHub 贡献与近期活动 →](https://github.com/cool-chicken?tab=overview)
+
 <p>
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cool-chicken&amp;bg_color=0b1226&amp;color=93c5fd&amp;line=5eead4&amp;point=f1f5f9&amp;area=true&amp;area_color=16334a&amp;hide_border=true" alt="cool-chicken's recent public GitHub contribution activity" />
 </p>
