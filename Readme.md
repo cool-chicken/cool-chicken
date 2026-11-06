@@ -47,27 +47,6 @@ Hi, I'm **Ruihan Wu**, also known as **cool-chicken** 👋
 
 [查看我的 GitHub 贡献与近期活动 →](https://github.com/cool-chicken?tab=overview)
 
-<p>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cool-chicken&amp;bg_color=0b1226&amp;color=93c5fd&amp;line=5eead4&amp;point=f1f5f9&amp;area=true&amp;area_color=16334a&amp;hide_border=true" alt="cool-chicken's recent public GitHub contribution activity" />
-</p>
-
-<details>
-<summary><b>More stats · 代码与学习记录</b></summary>
-
-<br />
-
-<p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cool-chicken&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark&amp;title_color=5eead4&amp;icon_color=93c5fd" alt="GitHub public repository statistics" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cool-chicken&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;theme=github_dark&amp;title_color=5eead4" alt="Language distribution across public repositories" />
-</p>
-
-<p>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=cool_chicken&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=github_dark&amp;title_color=5eead4" alt="Public WakaTime coding activity, when available" />
-</p>
-
-</details>
-
-<a id="connect"></a>
 
 ### 05 / Connect
 
