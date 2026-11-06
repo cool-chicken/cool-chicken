@@ -1,42 +1,81 @@
-<!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20RuihanWu!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
-</p>
-
-<!-- https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming+and+CRYPTO!" />
+  <img src="./assets/profile-header.svg" width="100%" alt="Hi, I'm Ruihan Wu. Code. Cryptography. Curiosity." />
 </p>
 
 <p align="center">
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=cool-chicken&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
-<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=cool-chicken&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
-<br/>
-<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=cool-chicken&theme=github-compact&hide_border=true&area=true">
-<br/>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=cool_chicken&theme=transparent&hide_border=true&layout=compact&langs_count=22&range=all_time" />
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cool-chicken&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-<br/>
-<!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=py,c,cs,java,html,css,js,md,matlab&theme=light" />
+  <a href="https://github.com/cool-chicken?tab=repositories">Projects</a> ·
+  <a href="https://blog.csdn.net/Rachelbb8">Writing</a> ·
+  <a href="#connect">Connect</a>
 </p>
 
-<!-- https://github.com/badges/shields -->
 <p align="center">
-<a href="https://github.com/cool-chicken"><img src="https://img.shields.io/badge/GitHub-cool_chicken-blue?logo=github" /></a>
-<a href="https://blog.csdn.net/Rachelbb8"><img src="https://img.shields.io/badge/CSDN-Rachelbb8-red?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAB+FBMVEUAAABqMy7wroeAUEvuso1vOTNwOzbxt5WKYFyniYm/qKLe3s1sNTBsNjGQVkhvODR6Rj7ip4XutZOCU07wtpXxupnst5eKXFmJXlrwu5qKbWryv6Hzx62gfXuwiYb44tNvODNWNSuKUUbwr4iKUkXwsImCVUZ3Qjt5UkN3QjvwsYtGLSfws454SERyPzp4RD/ws4/ws49xPzvvtI/xtJBPODJ7S0Z7SkXWnIFiTkbVnIGCU0/ps5TxvaDwvqGSaWWSaGiOaGSTb2uPamXzx7HxyrCjhHrwrYVqMi3wrITuq4RrMy63eF9jPS/Cg2fupoLqqIHopoDfn3rXlnXAfmSwcluNWkfioHzmkXrihXXccW2zdFypbFehZlKFWUVzSTlwSTh7QThuNS9VMyjto4HlpH7ionzjh3bXmXXOkG/Mi22tb1l/UUB9TT15TDxtRzZcNytZNypRMCVPLiTrnn/cnXnZm3fZmHbhgXTddG7IiGvMgGrPY2S2gGK+e2K1dl7CXV6uel28WlqocFika1WnalWdbFOaYk6dYE6SYUySVkaQVUaIVkSCV0OHVEOJTkF4UD2CRTxmQTJaLCZXKyVNKyJJJR9EIx0+IRrTknLffXLabWzZbGzFi2u5emGucFqicVeXaFCSXUp1STpdOy1hNyxdMilXMCfoEl0hAAAAR3RSTlMA/vqLn+7meVAWDgX59/X13LSGgoF7c2hdVlJQLSklEff18/Ly7+zs5ubi4djX1szHxMG5uLSjnZaJhn1pXldEPT05Ny4nGbaUVn8AAAIPSURBVDjLvdNFlxpBEMDxBgLsknX3jbu7e1I1wzC4OyzusO7u7nFPvmYGwr4HWZJc8vI71at/H/rQTf65g3/pReclTX/qj0rKL175fW4ViBCRd0HQWjC/uFGCWaU3i/f3hyLMIXq873alKJVma3oqL8rvTw7Ns+qeALOCuMIEetTsvPBpbpdUsBSk0SMjdGag2ApJzgEBC4qxJdtQJtJDNtuYAjSCvfpMfKeMUslkOp3MoQTwxNLTup4uuyVuSfcqPoTeUfbIicN2JqoDsEW1p9zh6CowIeDXEXIfaMNasHtr+fb1nWXG7fEmGXvT2e2ZlCq4ZqChmVwC46Ar+DYe2dndjAzHk6nEsGx7d+NTPNDvGvTBVXKGMo3ie3/K8n3jm0WT6PK7NTNbm1/Nya4QjvbBOXIZjOPoVK4vmq1mzdwSUKtzGq2VWYwpnTjug2vkAdADiFa12z45EZZ5AVRfwhOTnxPdVsQBit9MiJivkqJ0Vv0x5vig1FOU3jPtcEz7Z7mlil9LOC33TiOiUwEAL139rEvNDQontzpZ95z8VI2IC8BRar16rSI9LXCrarKnWIhogTwWRGHOo2jgoRnA4Ms0ymgA0CKvgeS4y5sC6DAZ5UB19PbJAaZ4ApKn/gjNnXj1xmR63ct1+lg9+UVbJXDknZ1y4FS2Ffgytcch62hN4f/T3lhzgFPV2E7+qx9xsqq+PsbsOwAAAABJRU5ErkJggg==" /></a>
-<img src="https://img.shields.io/badge/QQ-986595317-green?logo=tencentqq" />
-
-<!-- https://github.com/antonkomarev/github-profile-views-counter -->
-<img src="https://komarev.com/ghpvc/?username=cool-chicken&abbreviated=true&color=yellow" />
+  <b>在代码里探索原理，把想法变成可以运行的东西。</b><br />
+  Exploring cryptography, building projects, and learning along the way.
 </p>
 
-<!-- https://github.com/kyechan99/capsule-render -->
+---
+
+### 01 / About me
+
+Hi, I'm **Ruihan Wu**, also known as **cool-chicken** 👋
+
+- 🔐 对 **Cryptography** 和编程充满好奇，喜欢弄清技术背后的原理。
+- 🛠️ 通过实验、项目和可视化，把学到的知识变成具体实现。
+- 📝 在 [CSDN](https://blog.csdn.net/Rachelbb8) 记录学习过程，分享遇到的问题与思考。
+
+### 02 / Project shelf
+
+| 方向 | 项目 | 探索内容 |
+| :--- | :--- | :--- |
+| 🔐 Cryptography | [cryptography-exp](https://github.com/cool-chicken/cryptography-exp) | 密码学实验与代码 |
+| 🌐 Networks | [GBN protocol animation](https://github.com/cool-chicken/GBN-protocol-animation-python) | 用 Python 动画展示 GBN 协议 |
+| 🧠 Machine learning | [Hand-Tear-ML-Code](https://github.com/cool-chicken/Hand-Tear-ML-Code) | 机器学习算法的代码实践 |
+| 📐 Modeling | [CUMCM2023–2024](https://github.com/cool-chicken/CUMCM2023-2024) | 数学建模相关实践 |
+
+<p align="right">
+  <a href="https://github.com/cool-chicken?tab=repositories">Explore all repositories →</a>
+</p>
+
+### 03 / Toolbox
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,c,cs,java,html,css,js,md,matlab&amp;perline=9" alt="Python, C, C#, Java, HTML, CSS, JavaScript, Markdown, MATLAB" />
+</p>
+
+### 04 / Activity
+
+<p>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cool-chicken&amp;bg_color=0b1226&amp;color=93c5fd&amp;line=5eead4&amp;point=f1f5f9&amp;area=true&amp;area_color=16334a&amp;hide_border=true" alt="cool-chicken's recent public GitHub contribution activity" />
+</p>
+
+<details>
+<summary><b>More stats · 代码与学习记录</b></summary>
+
+<br />
+
+<p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cool-chicken&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark&amp;title_color=5eead4&amp;icon_color=93c5fd" alt="GitHub public repository statistics" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cool-chicken&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;theme=github_dark&amp;title_color=5eead4" alt="Language distribution across public repositories" />
+</p>
+
+<p>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=cool_chicken&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=github_dark&amp;title_color=5eead4" alt="Public WakaTime coding activity, when available" />
+</p>
+
+</details>
+
+<a id="connect"></a>
+
+### 05 / Connect
+
+<p>
+  <a href="https://blog.csdn.net/Rachelbb8"><img src="https://img.shields.io/badge/CSDN-Rachelbb8-16334A?style=flat-square&amp;labelColor=0B1226" alt="CSDN: Rachelbb8" /></a>
+  <img src="https://img.shields.io/badge/QQ-986595317-16334A?style=flat-square&amp;labelColor=0B1226" alt="QQ: 986595317" />
+  <a href="https://github.com/cool-chicken"><img src="https://img.shields.io/badge/GitHub-cool--chicken-16334A?style=flat-square&amp;logo=github&amp;labelColor=0B1226" alt="GitHub: cool-chicken" /></a>
+</p>
+
+---
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
+  <sub>Stay curious. Keep building. 🐣</sub>
 </p>
